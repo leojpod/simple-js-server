@@ -1,0 +1,10 @@
+{
+  "name": "simple-js-server",
+  "version": "0.0.0",
+  "description": "A simple JavaScript server",
+  "main": "server.js",
+  "repository": "",
+  "author": "Leo jpod <leo.jpod@lilo.org>",
+  "dependencies": {
+  }
+}
