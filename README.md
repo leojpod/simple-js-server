@@ -14,7 +14,7 @@ This project shows a minimal server created only with Node.js. It includes:
 
     $ node server.js
 
-Once the server is running, open the project in the shape of 'https://simple-js-server-leojpod.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+Once the server is running, open the project in the shape of 'https://simple-js-server-leojpod.c9users.io/'.
 
 
 ## Some useful links
