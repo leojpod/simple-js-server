@@ -6,5 +6,6 @@
   "repository": "",
   "author": "Leo jpod <leo.jpod@lilo.org>",
   "dependencies": {
+    "nodemon": "^1.12.1"
   }
 }
